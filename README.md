@@ -6,7 +6,8 @@ This Power BI project analyzes Return Performance and Year-over-Year (YoY) trend
 The dashboard provides a clear view of return counts, average return values, and return rates — all compared YoY to highlight performance improvements or declines.
 
 ## 📊 Dashboard Preview  
-![Return Performance Dashboard](./Screenshot_2025-11-08_182244.png)
+![Return Performance Dashboard](./Screenshot%2025-11-08%20182244.png)
+
 
 
 ## 🎯 Objective
