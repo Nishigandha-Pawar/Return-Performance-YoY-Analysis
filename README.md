@@ -75,8 +75,7 @@ Performance trends indicate improved process efficiency despite minor fluctuatio
 
 ## 🎥 Video Presentation
 
-▶️ YouTube Walkthrough: Watch Here
-YouTube Video: https://www.youtube.com/watch?v=15xtNI0gRvg
+▶️ YouTube Walkthrough: Watch Here: https://www.youtube.com/watch?v=15xtNI0gRvg
 
 The video explains:
 
@@ -99,8 +98,3 @@ DAX – Calculations and YoY analysis
 A clean, interactive Power BI dashboard that effectively communicates performance insights and YoY trends.
 It enables stakeholders to track improvement areas, evaluate employee contributions, and make data-driven decisions.
 
-## 📂 Deliverables
-
-PBIX File: Return Performance & YoY Analysis Dashboard
-
-YouTube Video: https://www.youtube.com/watch?v=15xtNI0gRvg
